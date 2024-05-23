@@ -1,6 +1,11 @@
 # 👋 Hey, I'm DeathSpider
 I am a Devloper,Gamer,Coder I Am Expert In Minecraft Development And I Kwon Many Languages
 
+• Full Stack Web Developer
+• Full Stack MC Devloper
+• Full Stack Discord Devloper
+• And More
+
 
 
 ✨️ Learn more about me on my [Portfolio Web](http://spiderr.fun).
