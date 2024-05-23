@@ -8,9 +8,9 @@ I am a Devloper,Gamer,Coder I Am Expert In Minecraft Development And I Kwon Many
 
 
 
-✨️ You Can See My Above In [Portfolio](http://spiderr.fun).
+* `🌐` You Can See My Above In [Portfolio](http://spiderr.fun).
 <br>
-💖 You Can [Contact Me](admin@spiderr.fun) if you need to talk
+* `✉️` You Can [Contact Me](admin@spiderr.fun) if you need to talk
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
