@@ -19,10 +19,7 @@ I am a Devloper,Gamer,Coder I Am Expert In Minecraft Development And I Kwon Many
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-**CONTACT ME**
-[<img alt="Instagram" width="35px" src="https://skillicons.dev/icons?i=instagram" />](https://instagram.com/im_artiom)
-[<img alt="Discord" width="35px" src="https://skillicons.dev/icons?i=discord" />](https://discord.com/users/526191240962768910)  
-[Email me](mailto:artiomsiatat@gmail.com)
+[<img alt="Discord" width="35px" src="https://skillicons.dev/icons?i=discord" />](https://discord.com/users/526191240962768910) 
 
 
 ![Discord](https://lanyard.cnrad.dev/api/1018366848770777149)
