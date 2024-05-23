@@ -19,7 +19,9 @@ I am a Devloper,Gamer,Coder I Am Expert In Minecraft Development And I Kwon Many
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-[<img alt="Discord" width="35px" src="https://skillicons.dev/icons?i=discord" />](https://discord.com/users/526191240962768910) 
+[<img alt="Discord" width="35px" src="https://skillicons.dev/icons?i=discord" />](https://discord.com/users/1018366848770777149) 
 
 
 ![Discord](https://lanyard.cnrad.dev/api/1018366848770777149)
+
+<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustArtiom&theme=github_dark&show_icons=true&layout=compact" />
