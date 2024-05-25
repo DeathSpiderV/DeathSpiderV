@@ -20,10 +20,11 @@ I am a Devloper,Gamer,Coder I Am Expert In Minecraft Development And I Kwon Many
 
 
 [<img alt="Discord" width="35px" src="https://skillicons.dev/icons?i=discord" />](https://discord.com/users/1018366848770777149) 
+<img src="https://komarev.com/ghpvc/?username=DeathSpiderV&color=blue">
 
 
 ![Discord](https://lanyard.cnrad.dev/api/1018366848770777149)
 
 <img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustArtiom&theme=github_dark&show_icons=true&layout=compact" />
 
-<img src="https://komarev.com/ghpvc/?username=DeathSpiderV&color=blue">
+
